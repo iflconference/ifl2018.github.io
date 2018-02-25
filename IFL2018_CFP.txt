@@ -1,0 +1,185 @@
+================================================================================
+
+                                    IFL 2018                                    
+    30th Symposium on Implementation and Application of Functional Languages    
+
+
+                                 Lowell, MA, USA
+                             September 5th-7th, 2018
+                          
+                        (In cooperation with ACM SIGPLAN)
+
+                            http://iflconference.org
+
+================================================================================
+
+### Scope
+
+The goal of the IFL symposia is to bring together researchers actively engaged
+in the implementation and application of functional and function-based
+programming languages. IFL 2018 will be a venue for researchers to present and
+discuss new ideas and concepts, work in progress, and publication-ripe results
+related to the implementation and application of functional languages and
+function-based programming.
+
+Topics of interest to IFL include, but are not limited to:
+
+- language concepts
+- type systems, type checking, type inferencing
+- compilation techniques
+- staged compilation
+- run-time function specialization
+- run-time code generation
+- partial evaluation
+- (abstract) interpretation
+- metaprogramming
+- generic programming
+- automatic program generation
+- array processing
+- concurrent/parallel programming
+- concurrent/parallel program execution
+- embedded systems
+- web applications
+- (embedded) domain specific languages
+- security
+- novel memory management techniques
+- run-time profiling performance measurements
+- debugging and tracing
+- virtual/abstract machine architectures
+- validation, verification of functional programs
+- tools and programming techniques
+- (industrial) applications
+
+
+### Submissions and peer-review
+
+Differently from previous editions of IFL, IFL 2018 solicits two kinds of
+submissions:
+
+* Regular papers (12 pages including references)
+* Draft papers for presentations ('weak' page limit of 12 pages)
+
+Regular papers will undergo a rigorous review by the program
+committee, and will be evaluated according to their correctness,
+novelty, originality, relevance, significance, and clarity. A set of
+regular papers will be conditionally accepted for publication. Authors
+of conditionally accepted papers will be provided with committee
+reviews along with a set of mandatory revisions. Regular papers not
+accepted for publication will be considered as draft papers, at the
+request of the author.
+
+Draft papers will be screened to make sure that they are within the
+scope of IFL, and will be accepted for presentation or rejected
+accordingly.
+
+Prior to the symposium:
+  Authors of conditionally accepted papers and accepted presentations will
+  submit a pre-proceedings version of their work that will appear in the draft
+  proceedings distributed at the symposium. The draft proceedings does not
+  constitute a formal publication.
+  
+  We require that at least one of the authors present the work at IFL 2018. 
+
+After the symposium:
+
+  Authors of conditionally accepted papers will submit a revised versions of
+  their paper for the formal post-proceedings. 
+  The program committee will assess whether the mandatory revisions have been
+  adequately addressed by the authors and thereby determines the final
+  accept/reject status of the paper.
+
+  Authors of accepted presentations will be given the opportunity to incorporate
+  the feedback from discussions at the symposium and will be invited to submit a
+  revised full article for the formal post-proceedings. 
+  The program committee will evaluate these submissions according to their
+  correctness, novelty, originality, relevance, significance, and clarity, and
+  will thereby determine whether the paper is accepted or rejected.
+  
+
+### Publication
+
+The formal proceedings will appear in the International Conference Proceedings
+Series of the ACM Digital Library.
+
+At no time may work submitted to IFL be simultaneously submitted to other
+venues; submissions must adhere to ACM SIGPLAN's republication policy:
+
+         http://www.sigplan.org/Resources/Policies/Republication
+
+
+### Important dates
+
+Submission of regular papers:                       May        25, 2018 
+Submission of draft papers:                         July       15, 2018 
+Regular and draft papers notification:              July       20, 2018  
+Deadline for early registration:                    August     17, 2018  
+Submission of pre-proceedings version:              August     29, 2018  
+IFL Symposium:                                      September 5-7, 2018 
+Submission of papers for post-proceedings:          November    7, 2018 
+Notification of acceptance:                         December   22, 2018  
+Camera-ready version:                               February   10, 2019
+
+
+### Submission details
+
+All contributions must be written in English. Papers must use the ACM two
+columns conference format, which can be found at:
+
+              http://www.acm.org/publications/proceedings-template
+
+Authors submit through EasyChair: 
+
+                 https://easychair.org/conferences/?conf=ifl2018
+
+
+### Peter Landin Prize
+
+The Peter Landin Prize is awarded to the best paper presented at the
+symposium every year. The honored article is selected by the program committee
+based on the submissions received for the formal review process. The prize
+carries a cash award equivalent to 150 Euros.
+
+
+### Organization and Program committee
+
+Chairs: Jay McCharty & Matteo Cimini, University of Massachusetts Lowell, USA
+
+Program Committee:
+
+* Arthur Charguéraud, INRIA - Nancy, FR
+* Ben Delaware, Purdue University, USA
+* Christos Dimoulas, Northwestern University, USA
+* David Darais, University of Vermont, USA
+* Dominic Orchard, University of Kent, UK
+* Ekaterina Komendantskaya, Heriot-Watt University, UK
+* Garret Morris, University of Kansas, USA
+* Heather Miller, École Polytechnique Fédérale de Lausanne (EPFL) & Northeastern University, CH & USA
+* Jeremy Yallop, University of Cambridge, UK
+* Keiko Nakata, Tallinn University of Technology, EST
+* Laura Castro, University of A Coruña, ESP
+* Magnus Myreen, Chalmers University of Technology, SWE
+* Peter Achten, Radboud Universiteit Nijmegen, NL
+* Natalia Chechina, Bournemouth University, UK
+* Peter-Michael Osera, Grinnell College, USA
+* Richard Eisenberg, Bryn Mawr College, USA
+* Trevor McDonell, University of New South Wales, AUS
+* Yukiyoshi Kameyama, University of Tsukuba, JAP
+
+### Venue 
+
+The 30th IFL will take place at the UMass Lowell Inn & Conference Center in
+Lowell (MA), in association with the University of Massachusetts Lowell. 
+The City of Lowell is located at the heart of the Merrimack Valley just 30 miles
+northwest of Boston. Lowell can be easily reached by train or taxi. 
+See the website for more information on the venue.
+
+### Acknowledgments
+
+This call-for-papers is an adaptation and evolution of content from
+previous instances of IFL. We are grateful to prior organizers for
+their work, which is reused here.
+
+A part of IFL 2018 format and CFP language that describes
+conditionally accepted papers has been adapted from call-for-papers of
+OOPSLA conferences.
+
