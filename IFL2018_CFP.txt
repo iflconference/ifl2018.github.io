@@ -153,7 +153,7 @@ Program Committee:
 * Dominic Orchard, University of Kent, UK
 * Ekaterina Komendantskaya, Heriot-Watt University, UK
 * Garrett Morris, University of Kansas, USA
-* Heather Miller, École Polytechnique Fédérale de Lausanne (EPFL) & Northeastern University, CH & USA
+* Heather Miller, EPFL & Northeastern University, CH & USA
 * Jeremy Yallop, University of Cambridge, UK
 * Keiko Nakata, Tallinn University of Technology, EST
 * Laura Castro, University of A Coruña, ESP
