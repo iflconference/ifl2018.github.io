@@ -146,13 +146,13 @@ Chairs: Jay McCarthy & Matteo Cimini, University of Massachusetts Lowell, USA
 
 Program Committee:
 
-* Arthur Charguéraud, INRIA - Nancy, FR
+* Arthur Charguéraud, Inria, FR
 * Ben Delaware, Purdue University, USA
 * Christos Dimoulas, Northwestern University, USA
 * David Darais, University of Vermont, USA
 * Dominic Orchard, University of Kent, UK
 * Ekaterina Komendantskaya, Heriot-Watt University, UK
-* Garret Morris, University of Kansas, USA
+* Garrett Morris, University of Kansas, USA
 * Heather Miller, École Polytechnique Fédérale de Lausanne (EPFL) & Northeastern University, CH & USA
 * Jeremy Yallop, University of Cambridge, UK
 * Keiko Nakata, Tallinn University of Technology, EST
