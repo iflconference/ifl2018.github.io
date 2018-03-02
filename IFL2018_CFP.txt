@@ -112,7 +112,7 @@ venues; submissions must adhere to ACM SIGPLAN's republication policy:
 Submission of regular papers:                       May        25, 2018 
 Submission of draft papers:                         July       15, 2018 
 Regular and draft papers notification:              July       20, 2018  
-Deadline for early registration:                    August     17, 2018  
+Deadline for early registration:                    August      8, 2018  
 Submission of pre-proceedings version:              August     29, 2018  
 IFL Symposium:                                      September 5-7, 2018 
 Submission of papers for post-proceedings:          November    7, 2018 
