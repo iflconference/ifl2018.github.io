@@ -155,7 +155,7 @@ Program Committee:
 * Garrett Morris, University of Kansas, USA
 * Heather Miller, EPFL & Northeastern University, CH & USA
 * Jeremy Yallop, University of Cambridge, UK
-* Keiko Nakata, Tallinn University of Technology, EST
+* Keiko Nakata, SAP Innovation Center Potsdam, DE
 * Laura Castro, University of A Coruña, ESP
 * Magnus Myreen, Chalmers University of Technology, SWE
 * Peter Achten, Radboud Universiteit Nijmegen, NL
