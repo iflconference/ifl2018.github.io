@@ -158,8 +158,8 @@ Program Committee:
 * Keiko Nakata, SAP Innovation Center Potsdam, DE
 * Laura Castro, University of A Coruña, ESP
 * Magnus Myreen, Chalmers University of Technology, SWE
-* Peter Achten, Radboud Universiteit Nijmegen, NL
 * Natalia Chechina, Bournemouth University, UK
+* Peter Achten, Radboud Universiteit Nijmegen, NL
 * Peter-Michael Osera, Grinnell College, USA
 * Richard Eisenberg, Bryn Mawr College, USA
 * Trevor McDonell, University of New South Wales, AUS
