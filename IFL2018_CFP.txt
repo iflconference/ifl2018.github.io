@@ -57,7 +57,7 @@ Differently from previous editions of IFL, IFL 2018 solicits two kinds of
 submissions:
 
 * Regular papers (12 pages including references)
-* Draft papers for presentations ('weak' page limit of 12 pages)
+* Draft papers for presentations ('weak' limit between 8 and 15 pages)
 
 Regular papers will undergo a rigorous review by the program
 committee, and will be evaluated according to their correctness,
@@ -87,6 +87,9 @@ After the symposium:
   The program committee will assess whether the mandatory revisions have been
   adequately addressed by the authors and thereby determines the final
   accept/reject status of the paper.
+  Our interest is to ultimately accept all conditionally accepted papers. If 
+  you are an author of a conditionally accepted paper, please make sure that 
+  you address all the concerns of the reviewers.
 
   Authors of accepted presentations will be given the opportunity to incorporate
   the feedback from discussions at the symposium and will be invited to submit a
@@ -169,8 +172,8 @@ Program Committee:
 
 The 30th IFL will take place at the UMass Lowell Inn & Conference Center in
 Lowell (MA), in association with the University of Massachusetts Lowell. 
-The City of Lowell is located at the heart of the Merrimack Valley just 30 miles
-northwest of Boston. Lowell can be easily reached by train or taxi. 
+The City of Lowell is located at the heart of the Merrimack Valley just 30 
+miles northwest of Boston. Lowell can be easily reached by train or taxi. 
 See the website for more information on the venue.
 
 ### Acknowledgments
