@@ -49,6 +49,12 @@ Topics of interest to IFL include, but are not limited to:
 - (industrial) applications
 
 
+### Keynote Speakers
+
+* Adam Chlipala, Massachusetts Institute of Technology CSAIL
+* Arjun Guha, University of Massachusetts Amherst
+
+
 ### Submissions and peer-review
 
 Differently from previous editions of IFL, IFL 2018 solicits two kinds of
@@ -147,7 +153,7 @@ Chairs: Jay McCarthy & Matteo Cimini, University of Massachusetts Lowell, USA
 
 Program Committee:
 
-* Arthur Charguéraud, Inria, FR
+* Arthur Chargueraud, Inria, FR
 * Ben Delaware, Purdue University, USA
 * Christos Dimoulas, Northwestern University, USA
 * David Darais, University of Vermont, USA
@@ -157,7 +163,7 @@ Program Committee:
 * Heather Miller, EPFL & Northeastern University, CH & USA
 * Jeremy Yallop, University of Cambridge, UK
 * Keiko Nakata, SAP Innovation Center Potsdam, DE
-* Laura Castro, University of A Coruña, ESP
+* Laura Castro, University of A Coruna, ESP
 * Magnus Myreen, Chalmers University of Technology, SWE
 * Natalia Chechina, Bournemouth University, UK
 * Peter Achten, Radboud Universiteit Nijmegen, NL
