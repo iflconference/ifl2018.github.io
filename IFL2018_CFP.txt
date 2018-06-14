@@ -1,3 +1,5 @@
+                        Call for Draft papers for presentations
+
 ================================================================================
 
                                     IFL 2018                                    
@@ -116,8 +118,8 @@ venues; submissions must adhere to ACM SIGPLAN's republication policy:
 
 ### Important dates
 
-Submission of regular papers:                       May        25, 2018 
-Submission of draft papers:                         July       17, 2018 
+Submission of regular papers:                       May        25, 2018 [PASSED!]
+Submission of draft papers:                         July       17, 2018 [UPCOMING!]
 Regular and draft papers notification:              July       20, 2018  
 Deadline for early registration:                    August      8, 2018  
 Submission of pre-proceedings version:              August     29, 2018  
