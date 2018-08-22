@@ -147,6 +147,15 @@ http://adam.chlipala.net/adamc2017.jpg
   </div>
   <div class="media-left media-middle">
     <h4 class="media-heading">Adam Chlipala, Massachusetts Institute of Technology CSAIL</h4>
+    <p> <h5 class="media-heading">Interactive Proof and the Fall and Rise of the Standard Model of Functional-Program Execution</h5> </p>
+    <p>
+	
+	The early days of functional programming involved some uncertainty about whether significant new hardware features were going to be needed, to support high-performance execution.  Eventually, a consensus view was reached on how to compile functional programs efficiently for the kinds of hardware architectures that are common today.  We have ingredients like garbage collection and a relatively straightforward way to read an expected cost from a program's text.  Automatic optimizations find opportunities to reduce these costs in some cases, but fundamentally we have grown used to a very operational reading of functional programs and their performance.
+	<br>
+	&nbsp;&nbsp;&nbsp;In the first part of this talk, I will try to deliver "the bad news" about the extent to which this model deserves to stick around.  Interactive proof assistants like Coq and Isabelle provide ways to establish the correctness of large artifacts, very convincingly; but it would be a mistake to see mechanized correctness proofs as merely exercises to carry out after-the-fact on systems.  They also enable more flexible and effective language designs and compilation strategies.  I will sketch how use of proof assistants can raise the abstraction level of programming dramatically, by intermingling specification features with programming features; and I will explain how traditional functional programs can be compiled more effectively using compilers that support proved plugins to introduce new translation patterns.  Both of these perspectives pull away from the "standard model" cost semantics of functional programming.
+	<br>
+	&nbsp;&nbsp;&nbsp;In the second part of the talk, I turn to "the good news" for the staying power of the standard model.  Practitioners have often suggested that functional programming was designed for language implementations and theorem provers, to the extent that it isn't a compellingly good match for more common domains.  I've come to feel fairly sympathetic to that view, and I want to share a perspective where we apply "the standard model" only at a kind of "macro-expansion time" and leave no runtime residue of it in verified, deployed systems.  Verified artifacts are best constructed with "building up" phases using combinators over first-class ingredients, often followed by "breaking down" phases of partial evaluation to collapse abstraction boundaries and reduce performance overhead.  These phases get interesting when we combine them with formal proof and aim to minimize the complexity of trusted proof-checking kernels.	
+	</p>
   </div>
 </div>
 <div class="media">
